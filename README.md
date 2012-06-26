@@ -7,7 +7,11 @@ The power iteration is a very simple algorithm. It does not compute a matrix dec
 
 ##Regular Iteration
 
+Find the largest EigenValue.
+
 ##Inverse Iteration
+
+Find the smallest EigenValue.
 
 ##Shifted Iteration
 
